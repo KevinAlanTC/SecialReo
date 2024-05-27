@@ -1,9 +1,9 @@
-# Sobre mi
+# **Sobre mi**
 
-## Nombre
+## **Nombre**
 Me llamo Kevin Alan Torres Cruz
 
-##Gustos
+## **Gustos**
 - Futbol
 - Videojuegos
 - Programacion
